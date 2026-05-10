@@ -1,0 +1,7 @@
+git remote set-url origin git@github.com:xiaoshi-stack/passwords.git
+
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+  User git
+  IdentityFile ~/.ssh/id_ed25519
